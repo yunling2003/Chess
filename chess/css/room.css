@@ -1,0 +1,116 @@
+body{
+	font: 宋体, Arial, Verdana, Sans-serif;
+	font-size: 11px;	
+	background-color: #EAEFF6;
+}
+
+div.plate{
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 1120px; 
+	height: 910px;	
+	background:none;	
+}
+
+div.container{
+	display: inline;	
+	position: absolute;
+    background: url("../image/board.jpg") no-repeat;
+}
+
+div.player{
+	display: inline;
+	float:right;	
+	width: 300px;
+	height: 900px;
+}
+
+div.player .profile{	
+	width:295px;
+	height:200px;
+    border: 2px solid #febf72;	
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+    -moz-box-shadow:rgba(0,0,0,0.15) 0 0 1px;
+    -webkit-box-shadow:rgba(0,0,0,0.15) 0 0 1px;
+    box-shadow:rgba(0,0,0,0.15) 0 0 1px;
+    color:#444;
+    font:normal 12px/14px 宋体, Arial, Helvetica, Sans-serif;
+    text-align: left;    
+}
+
+div.player .profile span.placeholder{
+	width:1px;
+	height: 100%;
+	display:inline-block;
+	vertical-align: middle;	
+}
+
+div.player .profile span.nickName{
+	width:160px;	
+	/*height: 100%;*/
+	line-height: 200px;
+	display:inline-block;
+	text-align: center;
+	vertical-align: middle;
+	font:bold 20px 楷体, Arial, Helvetica, Sans-serif;
+	color:red;
+}
+
+div.player .profile img{
+	vertical-align: middle;
+}
+
+div.player .action{
+	text-align: center;
+	width: 100%;
+	height: 50px;
+}
+
+div.player .action button{
+	width: 67px;
+	height: 28px;
+	border: 1px, solid, black;
+}
+
+div.popup{
+    display: none;
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    border: 2px solid orange;
+    background-color: white;	    
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    text-align: center;
+}
+
+div.popup .text{
+    margin: 20px 10px 20px 10px;
+}
+
+div.popup .text span{		
+	font:bold 20px 楷体, Arial, Helvetica, Sans-serif;
+	height: 50px;
+	color: black;
+}
+
+div.popup .action button{
+	width: 67px;
+	height: 28px;
+	border: 1px, solid, black;
+}
+
+.overlay{
+	background-color: rgb(255,255,255);
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	cursor: default;
+	opacity: 0;
+	visibility: hidden;		
+}

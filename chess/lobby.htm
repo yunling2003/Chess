@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Game Lobby</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/lobby.css">
+    <script data-main="js/lobby.js" src="js/require.js"></script>  
+    <script type="text/javascript">
+      require.config({
+        paths: {
+          "jquery": "lib/jquery-1.9.0.min",
+          "socketio": "http://localhost:8882/socket.io/socket.io.js"
+        },
+        waitSeconds: 10
+      });
+    </script>    
+  </head>
+  <body>
+    <form>
+      <div class="banner">
+        <img src="image\chess.png" />
+      </div>
+      <div class="container">
+        <div class="lobbyTable">
+          <div class="lobbyRow">
+            <div id="room1" name="1" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room2" name="2" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room3" name="3" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room4" name="4" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room5" name="5" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+          </div>
+          <div class="lobbyRow">
+            <div id="room6" name="6" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room7" name="7" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room8" name="8" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room9" name="9" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room10" name="10" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+          </div>
+          <div class="lobbyRow">
+            <div id="room11" name="11" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room12" name="12" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room13" name="13" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room14" name="14" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room15" name="15" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+          </div>
+          <div class="lobbyRow">
+            <div id="room16" name="16" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room17" name="17" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room18" name="18" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room19" name="19" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room20" name="20" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+          </div>
+          <div class="lobbyRow">
+            <div id="room21" name="21" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room22" name="22" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room23" name="23" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room24" name="24" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+            <div id="room25" name="25" class="lobbyCell">
+              <img src="image\tablen.png" />
+            </div>
+          </div>
+        </div>
+      </div>   
+      <div class="account">
+        欢迎[<span id="userId"></span>],<span><a id="logout" href="login.htm">注销</a></span>
+      </div>   
+    </form>    
+  </body>
+</html>

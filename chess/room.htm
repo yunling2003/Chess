@@ -1,0 +1,54 @@
+
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title>Chinese Chess</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" type="text/css" href="css/reset.css">
+      <link rel="stylesheet" href="css/room.css">
+      <script data-main="js/app.js" src="js/require.js"></script>  
+      <script type="text/javascript">
+        require.config({
+          paths: {
+            "jquery": "lib/jquery-1.9.0.min",
+            "socketio": "http://localhost:8882/socket.io/socket.io.js"
+          },
+          waitSeconds: 15
+        });
+      </script>
+   </head>
+   <body>    
+      <audio id="chess1Audio" src="" type="audio/mpeg"></audio>
+      <div class="plate">
+        <div id="container" class="container"></div>      
+   	    <div class="player">
+          <div class="profile">  
+            <span class="placeholder"></span>                      
+            <img src="image/head1.png" alt="head1"/>
+            <span class="nickName" id="opponentName"></span>
+          </div>
+          <div style="width:100%;height:440px"></div>
+          <div class="action">
+            <button id="btnStart" type="button">开始游戏</button>
+            <button id="btnPeace" type="button" disabled>求和</button>
+            <button id="btnSurrender" type="button" disabled>投降</button>
+            <button id="btnExit" type="button">退回大厅</button>
+          </div>
+          <div class="profile">            
+            <span class="placeholder"></span>
+            <img src="image/head2.png" alt="head2"/>
+            <span class="nickName" id="selfName"></span>
+          </div>
+        </div>
+      </div>
+      <div class="overlay" id="overlay"></div>
+      <div id="layerPopup" class="popup">
+        <div class="text">
+          <span id="popupText"></span>
+        </div>        
+        <div>          
+          <button id="btnOver" class="action" type="button">结束棋局</button>
+        </div>
+      </div>
+   </body>
+</html>

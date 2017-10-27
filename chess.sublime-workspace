@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"getopp",
+				"getOpponentPlayer"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"on",
+				"onSuccess"
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"opp",
+				"opponent"
+			],
+			[
+				"chess",
+				"chessmanservice"
+			],
+			[
+				"fin",
+				"findChessByName"
+			],
+			[
+				"game",
+				"gameobject"
+			],
+			[
+				"clear",
+				"clearChessList"
+			],
+			[
+				"lo",
+				"lobby"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"player",
+				"playerInfo"
+			],
+			[
+				"oppen",
+				"opponent"
+			],
+			[
+				"Play",
+				"PlayerB"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"Nu",
+				"NUM_LENGTH"
+			],
+			[
+				"Bina",
+				"BinarySearchRecur"
+			],
+			[
+				"nu",
+				"NUM_LENGTH"
+			],
+			[
+				"Chessm",
+				"ChessmanFactory"
+			],
+			[
+				"can",
+				"Cannon"
+			],
+			[
+				"dra",
+				"drawChessBoard"
+			],
+			[
+				"point",
+				"pointX"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"init",
+				"initChesses"
+			],
+			[
+				"draw",
+				"drawChessBoard"
+			],
+			[
+				"obje",
+				"objectStore"
+			],
+			[
+				"board",
+				"boardLines"
+			],
+			[
+				"ob",
+				"objectStore"
+			],
+			[
+				"objec",
+				"objectStoreNames"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getChessMetadata"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"index",
+				"indexedDB"
+			],
+			[
+				"ini",
+				"initializePlayerSides"
+			],
+			[
+				"poin",
+				"pointSign"
+			],
+			[
+				"short",
+				"shortLineInterval"
+			],
+			[
+				"shor",
+				"shortLineInterval"
+			],
+			[
+				"sho",
+				"shortLineLength"
+			],
+			[
+				"in",
+				"innerRectHeight"
+			],
+			[
+				"inn",
+				"innerRectY"
+			],
+			[
+				"inner",
+				"innerRectX"
+			],
+			[
+				"innerrect",
+				"innerRectY"
+			],
+			[
+				"stroke",
+				"strokeWidth"
+			],
+			[
+				"line",
+				"lineConfig"
+			],
+			[
+				"innerre",
+				"innerRectHeight"
+			],
+			[
+				"out",
+				"outRectStrokeWidth"
+			],
+			[
+				"ou",
+				"outRectX"
+			],
+			[
+				"c",
+				"containerHeight"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"d",
+				"drawChessBoard"
+			],
+			[
+				"For",
+				"formidable"
+			],
+			[
+				"postda",
+				"postDataChunk"
+			],
+			[
+				"write",
+				"writeHead"
+			],
+			[
+				"re",
+				"requestHandlers"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 555.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/Techtalk/chessdemo/chessdemo/chessserver/node_modules/socket.io/lib/socket.io.js",
+		"/I/Techtalk/chessdemo/chessdemo/chessserver/node_modules/socket.io/lib/manager.js",
+		"/I/Techtalk/chessdemo/chessdemo/chess/lobby.htm",
+		"/I/Techtalk/chessdemo/chessdemo/chessserver/game/server.js",
+		"/I/Techtalk/chessdemo/chessdemo/chessserver/game/gamehandler.js",
+		"/I/Techtalk/chessdemo/chessdemo/chessserver/node_modules/socket.io/package.json",
+		"/I/Techtalk/chessdemo/chessdemo/Chess/room.htm",
+		"/I/Techtalk/chessdemo/chessdemo/Chess Server/game/gamehandler.js",
+		"/I/Techtalk/chessdemo/chessdemo/Chess/login.htm",
+		"/I/Techtalk/chessdemo/chessdemo/Chess/lobby.htm",
+		"/I/Techtalk/chessdemo/chessdemo/Chess Server/game/router.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess Server/game/server.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess Server/game/gamehandler.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/chessboard.js",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess/login.htm",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess/js/gameset/gameobject.js",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess/js/app.js",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess/js/gameset/chessservice.js",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess/js/socketstub.js",
+		"/I/Techtalk/ChessDemo/ChessDemo/Chess Server/game/gamehandler.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/chessman.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/chessmanservice.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/db/chessdata.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess Server/game/router.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/css/room.css",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/room.htm",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/cacheprovider.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/login.htm",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/lobby.htm",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/login.html",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/lib/jquery-1.9.0.min.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/lobby.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess Server/game/pagehandler.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/utility.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/gameobject.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/player.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/room.html",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/domReady.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/db/chessdb.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/lib/kinetic-v4.5.2.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/container.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/lobby.html",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/css/lobby.css",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/css/login.css",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/require.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/app.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/chessservice.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/socketstub.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/image/board.gif",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/appinstance.html",
+		"/I/Techtalk/Chess Demo/Chess Demo/chess.sublime-workspace",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/socketstub.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess Server/game/gameHandler.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/cacheProvider.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/css/structure.css",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/css/style.css",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/lib/kinetic-v4.4.0.js",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/I/Techtalk/Algorithm/BinarySearch/BSearch.h",
+		"/I/Techtalk/Algorithm/BinarySearch/BSearch.cpp",
+		"/I/Techtalk/Algorithm/demo.cpp",
+		"/I/Techtalk/Algorithm Practise/demo.cpp",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/lib/kinetic-v4.3.1.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/game.js",
+		"/I/Techtalk/Chess Demo/Chess Demo/Chess/js/gameset/config.js",
+		"/I/Techtalk/Chess Demo/Chess/js/db/chessdb.js",
+		"/I/Techtalk/Chess Demo/Chess/js/gameset/chess.js",
+		"/I/Techtalk/Chess Demo/Chess/js/gameset/chessboard.js",
+		"/I/Techtalk/Chess Demo/Chess/js/gameset/game.js",
+		"/I/Techtalk/Chess Demo/Chess/js/gameset/chessman.js",
+		"/I/Techtalk/Chess Demo/Chess/js/app.js",
+		"/I/Techtalk/Chess Demo/Chess/js/gameset/container.js",
+		"/I/Techtalk/Chess Demo/Chess/css/style.css",
+		"/I/Techtalk/Chess Demo/Chess/js/chessman.js",
+		"/I/Techtalk/Chess Demo/Chess/js/chess.js",
+		"/I/Techtalk/Chess Demo/Chess/appinstance.html",
+		"/I/Techtalk/Chess Demo/Chess/js/game.js",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/User/JSLint.sublime-settings",
+		"/I/Techtalk/Chess Demo/Chess/js/chessboard.js",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/JSLint/JSLint.sublime-build",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/I/Techtalk/Chess Demo/Chess/room.html",
+		"/I/Download/kinetic-v4.3.1.js",
+		"/I/Research/shareobject/shareobject/client.htm",
+		"/I/Research/shareobject/shareobject/app.js",
+		"/I/Research/NodeServer/server",
+		"/I/Download/jquery-ui-1.9.0.custom/jquery-ui-1.9.0.custom/js/jquery-ui-1.9.0.custom.js",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/Main.aspx",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/web.config",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/Login.aspx",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/UserProfile.aspx",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Idp.Web/Default.aspx",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/Profile.aspx.cs",
+		"/I/Techtalk/SAML Demo/TechTalk.SAML/TechTalk.SAML.Sp.Web/Profile.aspx",
+		"/I/Research/SamlLogin/login.html",
+		"/I/Research/SamlLogin/main.html",
+		"/I/Research/SamlLogin/bootstrap/css/docs.css",
+		"/I/Research/SamlLogin/bootstrap/css/bootstrap-responsive.css",
+		"/I/Research/SamlLogin/SamlLogin.sublime-project",
+		"/C/Users/leon.ling/Desktop/AdvanceSearch.aspx",
+		"/C/Users/leon.ling/Desktop/AddressAdvanceSearch.aspx",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/leon.ling/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/I/Project/ibs_main/paymedia/Presentation/Presentation/Website/CSR/Page/Customer/AddressCreateUpdate.aspx",
+		"/I/Project/ibs_main/paymedia/ApplicationServices/AgreementManagement/BizProcess/AgreementManagementConfigurationService.CodeGenerated.cs"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"I:\\Project\\ibs_main",
+			"I:\\Project\\ibs_main\\paymedia\\ApplicationServices",
+			"",
+			"I:\\Project\\62_MR23_RC\\62_MR23_RC",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FindRecursiveOutagesForCustomer",
+			"10080013",
+			"10080009",
+			"ReauthorizeDevices",
+			"shippingorder.cs",
+			"Welcome to socket.io",
+			"socket.io.js.js",
+			"http://localhost:8882",
+			"R.asp",
+			"socket.io start",
+			"clearChessList",
+			"removeOpponent",
+			"prod_installment_plan",
+			"jquery.min.map",
+			"window.location",
+			"reset.css",
+			"reset.cs",
+			"reset",
+			"setNextStep",
+			"initChessMan",
+			"updateChessStatus",
+			"stub",
+			"cache",
+			"cacheProvider",
+			"CacheProvider",
+			"stub",
+			"draggable",
+			"getFocusedChess",
+			"getXCount",
+			"updateChessStatus",
+			"findChessByName",
+			"findChessByPosition",
+			"getFocusedChess",
+			"setChessesDraggable",
+			"clearAllChessFocus",
+			"container",
+			"setFocus",
+			"container",
+			"getFocusedChess",
+			"getLayer",
+			"getStage",
+			"stub",
+			"setAllChessDraggable",
+			"getXCount",
+			"findChessByName",
+			"findChessByPosition",
+			"updateChessStatus",
+			"getFocusedChess",
+			"setAllChessDraggable",
+			"getFocusedChess",
+			"setAllChessDraggable",
+			"clearAllChessFocus",
+			"draw",
+			"draw()",
+			"user",
+			"UserB",
+			"UserA",
+			"chessList",
+			"joingame",
+			"settimeout",
+			"chessman",
+			"CacheProvider()",
+			"cacheprovider.CacheProvider()",
+			"stub",
+			"cacheprovider",
+			"gamehandler",
+			"cacheprovider",
+			"socketio",
+			"stub",
+			"socketstub",
+			"audio",
+			"sound",
+			"audio",
+			"place",
+			"input",
+			"submit",
+			"getOpacity",
+			"setOpacity",
+			"setopacity",
+			"setColor",
+			"setStrokeWidth",
+			"setstrokewidth",
+			"getinitchessmandata",
+			"container",
+			"leveldb",
+			"$",
+			">\n",
+			"basefont",
+			"@",
+			"bs-docs",
+			"bs-docs-sidebar",
+			"background-color",
+			"rgb",
+			"238",
+			"border-radius",
+			"bordered",
+			"div-bordered",
+			"bordered",
+			"border",
+			"dropdown",
+			"result",
+			"where *.html",
+			"result\n*.html,<open files>",
+			"result\nsdfsd",
+			"Customers\nresult",
+			"Customers",
+			"web",
+			"^post$",
+			"reg",
+			"Reg",
+			"sdfwe",
+			"sfsdfwe4tf\nwetertgrfgdf\nwetrwerw",
+			"cfgw",
+			"asdfsdfsd",
+			"sadfsadf",
+			"werwerwe",
+			"sadfsadf",
+			"sadfsadf\nwerwer\nxcsers\nxwe\ndfher",
+			"comstreet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 369.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 330.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"advancesearch",
+				"/C/Users/leon.ling/Desktop/AdvanceSearch.aspx"
+			],
+			[
+				"addressadvancesearch",
+				"/C/Users/leon.ling/Desktop/AddressAdvanceSearch.aspx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}

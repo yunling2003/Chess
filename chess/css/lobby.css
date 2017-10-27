@@ -1,0 +1,58 @@
+body{
+  background:#eff3f6;	  
+}
+.banner{
+  position: absolute;
+  left: 250px;
+  top:50px;
+  width:500px;
+  height: 140px;
+}
+
+.container{
+	border:2px solid #72B1DC;
+	-webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    -moz-box-shadow:rgba(0,0,0,0.30) 0 0 1px;
+    -webkit-box-shadow:rgba(0,0,0,0.30) 0 0 1px;
+    box-shadow:rgba(0,0,0,0.30) 0 0 1px;
+	position:absolute;
+    left:300px;
+    top:200px;	
+    height:810px;
+    width:800px;
+}
+
+.lobbyTable{
+  display:table;    
+  margin-top: 20px;
+  margin-left: 25px;
+}
+
+.lobbyRow{
+  display:table-row;
+}
+
+.lobbyCell{
+  display:table-cell;
+  border:1px solid #ffffff;
+  cursor: pointer;
+}
+
+.account{
+  position: absolute;
+  left:1200px;
+  top:60px;
+  font:normal 18px 宋体, Arial, Helvetica, Sans-serif;  
+  color: #FAA932;
+}
+
+a:link{
+  color: #FF0000;
+  text-decoration: underline;
+}
+
+a:hover{
+  color: lightblue;
+}

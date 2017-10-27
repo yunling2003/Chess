@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Chess Login</title>
+    <meta charset="UTF-8" />    
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+    <script type="text/javascript" src="js/lib/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript">
+      $(function(){
+        $("#uniqueId").val(newGuid());
+        $("#login").click(function() {
+          if($("#nickName").val().trim() === "") {
+            return;
+          }
+
+          sessionStorage.userName = $("#nickName").val();
+          sessionStorage.userId = $("#uniqueId").val();
+          window.location = "lobby.htm";
+          return false;
+        });
+      });
+
+      function s4() 
+      {   
+        return (((1 + Math.random()) * 0x10000)|0).toString(16).substring(1);   
+      }
+
+      function newGuid() 
+      {   
+        return (s4() + s4() + "-" + s4() + "-" + s4() + "-" + s4() + "-" + s4() + s4() + s4());   
+      }
+
+    </script>
+  </head>
+  <body>    
+    <form class="box login">
+      <fieldset class="boxBody">
+        <label>昵称</label>
+        <input id="nickName" type="text" tabindex="1" placeholder="你的昵称" required>
+        <label>唯一ID</label>
+        <input id="uniqueId" type="text" disabled="true" tabindex="2" required>
+      </fieldset>
+      <footer>
+        <label>[仅支持Chrome浏览器]</label>
+        <input id="login" type="submit" class="btnLogin" value="登陆" tabindex="4">
+      </footer>
+    </form>
+    <footer id="main">
+      <a href="#">Login Form (HTML5/CSS3 Coded) by CSS Junction</a>
+    </footer>
+  </body>
+</html>
